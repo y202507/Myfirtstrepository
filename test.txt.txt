@@ -1,0 +1,2 @@
+This is a test file for GitHub Desktop tutorial.
+这是用于 GitHub Desktop 教程的测试文件。
